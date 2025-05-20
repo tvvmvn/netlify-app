@@ -1,6 +1,6 @@
 export default function App() {
 
-  console.log(import.meta.env.VITE_SECRET)
+  console.log(import.meta.env.VITE_SECRET);
 
   return (
     <>
